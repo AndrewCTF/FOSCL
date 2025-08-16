@@ -1,0 +1,62 @@
+# Full Open Source Continuity License (FOSCL)
+6. **Open Source Obligation**: The perpetual duty of all Users and Contributors to maintain and distribute the complete corresponding source code of any Licensed Work or Derivative Work.
+7. **Commercial Use**: Utilization of the Licensed Work in a manner intended for profit, including but not limited to integration into paid products, SaaS offerings, internal corporate infrastructure, or government applications.
+8. **Continuity Clause**: The mandatory requirement that the Licensed Work and all Derivative Works remain licensed under FOSCL, ensuring no re-licensing under restrictive or proprietary licenses.
+9. **Damages**: Any harm, loss, liability, or injury, including but not limited to financial loss, reputational harm, security breaches, or consequential damages caused by the Licensed Work.
+
+
+## Core Principles
+1. **Perpetual Openness**: All Licensed Works and Derivative Works must remain open source under FOSCL without exception.
+2. **Equal Access**: All individuals, regardless of status, geography, or affiliation, have equal rights to access, use, and modify the Licensed Work.
+3. **No Proprietary Conversion**: No User or Contributor may convert, dual-license, or relicense the Licensed Work or Derivative Works under proprietary or closed-source licenses.
+4. **Transparency of Modifications**: All modifications, enhancements, or bug fixes must be documented and made publicly available with source code.
+5. **Corporate and Government Use**: Corporations and government entities may use the Licensed Work, but only under the same open-source obligations as individuals.
+6. **Education and Research Freedom**: The Licensed Work may be used freely for teaching, training, academic research, and knowledge dissemination.
+
+
+## Conditions of Use
+1. Any Distribution of the Licensed Work must include the full corresponding source code, build instructions, and this license document.
+2. Derivative Works must be clearly marked as such, including a changelog or documentation identifying modifications from the original Licensed Work.
+3. All Users must retain notices of copyright, authorship, and license terms in all copies or substantial portions of the Licensed Work.
+4. Commercial Use is permitted, provided that compliance with FOSCL’s Open Source Obligation is maintained.
+5. Proprietary wrappers, obfuscation, or technical barriers designed to conceal source code or restrict freedom are strictly prohibited.
+
+
+## Enforcement and Remedies
+1. Any violation of FOSCL, including but not limited to failure to release source code, unauthorized proprietary licensing, or concealment of modifications, constitutes automatic termination of rights under this license.
+2. Termination is immediate upon violation, without requirement of additional notice.
+3. Users and Contributors found in violation must cease use and distribution of the Licensed Work until full compliance is restored.
+4. Legal enforcement may be pursued by the original author(s) or Contributors collectively.
+5. Damages caused by intentional violation, negligence, or bad faith are the sole responsibility of the violator, and restitution may be sought.
+
+
+## Disclaimer of Warranty
+THE LICENSED WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SECURITY, RELIABILITY, OR NON-INFRINGEMENT. USERS ACCEPT ALL RISKS ASSOCIATED WITH USING THE LICENSED WORK.
+
+
+## Limitation of Liability
+IN NO EVENT SHALL THE AUTHORS, CONTRIBUTORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
+
+
+## Continuity Clause
+The FOSCL applies perpetually. No attempt to relicense, modify, or revoke the terms of FOSCL shall be valid. The license continues to bind all Users and Contributors indefinitely, ensuring that the Licensed Work remains open source in perpetuity.
+
+
+## Governing Law
+This license is globally applicable and shall be interpreted under principles of international open-source law and cooperation. Jurisdiction-specific disputes shall defer to the jurisdiction of the original copyright holder, unless mutually agreed otherwise.
+
+
+## Educational Clause
+This license explicitly grants unlimited permission for the Licensed Work to be used for educational purposes, including but not limited to teaching in schools, universities, coding bootcamps, workshops, online courses, and independent study.
+
+
+## Final Acknowledgement
+By accessing, using, modifying, contributing to, or distributing the Licensed Work, the User acknowledges acceptance of all terms of the FOSCL.
+
+
+---
+
+
+**License Short Identifier:** FOSCL
+**Version:** 1.0
+**Date of Issue:** 2025-08-16
