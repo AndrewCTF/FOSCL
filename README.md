@@ -24,7 +24,6 @@ The **FOSCL license**:
 - Guarantees that forks, derivatives, and connected projects also remain open source.  
 - Ensures transparency for software delivered over the network.  
 - Protects developers by making sure open source contributions are respected.  
-- Allows the project owner (you!) to grant **special paid permissions** for closed-source use if you want (see **FOSCL+**).  
 
 ---
 
