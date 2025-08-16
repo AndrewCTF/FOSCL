@@ -26,8 +26,6 @@ The **FOSCL license**:
 - Protects developers by making sure open source contributions are respected.  
 - Allows the project owner (you!) to grant **special paid permissions** for closed-source use if you want (see **FOSCL+**).  
 
-It’s like **Copyleft 2.0, but with no escape hatches**.  
-
 ---
 
 ## 🎯 Why I Made This  
