@@ -1,6 +1,6 @@
 # FOSCL – Full Open Source Continuity License
 
-**Pronunciation:** *"FOSS-kul"* (like "fossil" but with a soft **k** sound).  
+**Pronunciation:** *"FOSS-kel"* (like "fossil" but with a soft **k** sound).  
 
 ---
 
